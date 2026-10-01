@@ -1,47 +1,47 @@
 # Hi, I'm Sutthiwit Sriyotha 👋
 
-**BA / QA Tester · Software Engineering background**
+**BA / QA Tester · Background in Software Engineering**
 
-I work across business analysis and software testing, from gathering requirements and writing **Software Requirements Specifications (SRS)** to designing test cases, validating APIs and databases, investigating defects, and developing automated tests. My experience includes enterprise **HR** and **IT service management (ITSM)** systems, supported by hands-on web development experience.
+I have hands-on experience in business analysis and software testing, including requirements gathering, **software requirements specification (SRS)** documentation, test case design, API and database validation, defect investigation, and test automation. I have worked on enterprise **HR** and **IT service management (ITSM)** applications, supported by a technical background in web development.
 
 [**🌐 Portfolio & Case Studies**](https://sutthiwit-sriyotha.github.io/portfolio/) · [**✉️ Contact Me**](mailto:sutthiwitsriyotha@gmail.com)
 
 **Open to BA / QA Tester opportunities.**
 
-## What I work on
+## Core Competencies
 
-| Business Analysis | Quality Assurance | Technical & Automation |
+| Business Analysis | Quality Assurance | Data & Automation |
 | --- | --- | --- |
 | Requirements gathering & SRS | Manual, functional & regression testing | Playwright & Vitest |
-| UI & workflow design | Test case design & defect reporting | API & PostgreSQL validation |
-| Business rules & acceptance criteria | API & end-to-end testing | RBAC, SLA & data migration checks |
+| UI and workflow design | Test case design and defect reporting | API and PostgreSQL validation |
+| Business rules and acceptance criteria | API and end-to-end testing | RBAC, SLA, and data migration validation |
 
 ## Experience
 
 **BA & QA Tester Intern · Double P Enterprise Co., Ltd.**  
 *Jun – Sep 2026*
 
-- Gathered requirements, documented SRS, supported UI design, and wrote test cases for enterprise workflows.
-- Tested HR and ITSM business rules, APIs, databases, role-based permissions, and SLA calculations.
-- Developed or maintained automated tests and investigated defects using API responses, database records, and logs.
+- Gathered requirements, prepared SRS documentation, contributed to UI and workflow design, and developed test cases for enterprise workflows.
+- Tested HR and ITSM business rules, APIs, databases, role-based access control (RBAC), and SLA calculations.
+- Developed and maintained automated tests and investigated defects using API responses, database records, and server logs.
 
 **Software Developer Intern · Division of Educational Services, University of Phayao**  
 *Nov 2025 – Feb 2026*
 
-- Developed responsive interfaces and assessment forms for **UP-PSF** with Next.js and TypeScript.
-- Worked with RBAC, REST API integration, secure file uploads, cross-browser testing, and UAT.
+- Developed responsive interfaces and assessment forms for **UP-PSF** using Next.js and TypeScript.
+- Implemented role-based access controls, integrated REST APIs and secure file uploads, and supported cross-browser testing and user acceptance testing (UAT).
 
-## Selected projects
+## Selected Projects
 
-- **[JOiNS+ HR Portal](https://sutthiwit-sriyotha.github.io/portfolio/#project-joins)** — Requirements, SRS, test cases, HR business-rule validation, data migration, and regression testing.
-- **[MEGA-T ITSM Platform](https://sutthiwit-sriyotha.github.io/portfolio/#project-mega)** — UI/API automation, SLA validation, RBAC, multi-tenant isolation, and defect investigation.
-- **[UP-PSF Digital Assessment System](https://sutthiwit-sriyotha.github.io/portfolio/#project-uppsf)** — Responsive development, assessment workflows, API integration, RBAC, and UAT.
+- **[JOiNS+ HR Portal](https://sutthiwit-sriyotha.github.io/portfolio/#project-joins)** — Requirements gathering, SRS documentation, test case design, HR business-rule validation, data migration, and regression testing.
+- **[MEGA-T ITSM Platform](https://sutthiwit-sriyotha.github.io/portfolio/#project-mega)** — Automated UI and API testing, SLA validation, RBAC, multi-tenant data isolation, and defect investigation.
+- **[UP-PSF Digital Assessment System](https://sutthiwit-sriyotha.github.io/portfolio/#project-uppsf)** — Responsive UI development, assessment workflows, API integration, RBAC, and UAT.
 
-Also explored full-stack development through a restaurant management web app and UX/UI through the TAMROI online plant store. [View all five case studies →](https://sutthiwit-sriyotha.github.io/portfolio/#work)
+I have also worked on a full-stack restaurant management web application and the UX/UI design of the TAMROI online plant store. [View all five case studies →](https://sutthiwit-sriyotha.github.io/portfolio/#work)
 
-## Skills & tools
+## Skills & Tools
 
-**BA / QA · Data & delivery**
+**BA / QA · Data & Delivery**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="34" height="34" />
@@ -61,6 +61,3 @@ Also explored full-stack development through a restaurant management web app and
   <img src="https://skillicons.dev/icons?i=py,git,ts,js,vscode,html,nuxtjs,nextjs,vue,react,css,tailwind,mui,nodejs,nestjs,mongodb,mysql&perline=17" alt="Development skills: Python, Git, TypeScript, JavaScript, VS Code, HTML5, Nuxt.js, Next.js, Vue, React, CSS3, Tailwind CSS, MUI, Node.js, NestJS, MongoDB, MySQL" />
 </p>
 
----
-
-📫 **Email:** [sutthiwitsriyotha@gmail.com](mailto:sutthiwitsriyotha@gmail.com) · 🖥️ **Portfolio:** [sutthiwit-sriyotha.github.io/portfolio](https://sutthiwit-sriyotha.github.io/portfolio/)
